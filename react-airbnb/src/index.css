@@ -15,3 +15,11 @@ code {
 * {
   box-sizing: border-box;
 }
+
+/* Navbar styling */
+
+nav {
+  height: 70px;
+  display: flex;
+  
+}
